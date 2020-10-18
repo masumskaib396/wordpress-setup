@@ -1,0 +1,41 @@
+@font-face {
+    font-family: 'Adelle_Reg';
+    src: url('../fonts/Adelle_Reg.eot');
+    src: url('../fonts/Adelle_Reg.eot') format('embedded-opentype'),
+         url('../fonts/Adelle_Reg.woff2') format('woff2'),
+         url('../fonts/Adelle_Reg.woff') format('woff'),
+         url('../fonts/Adelle_Reg.ttf') format('truetype'),
+         url('../fonts/Adelle_Reg.svg#Adelle_Reg') format('svg');
+}
+
+@font-face {
+    font-family: 'Adelle_light';
+    src: url('../fonts/Adelle_light.eot');
+    src: url('../fonts/Adelle_light.eot') format('embedded-opentype'),
+         url('../fonts/Adelle_light.woff2') format('woff2'),
+         url('../fonts/Adelle_light.woff') format('woff'),
+         url('../fonts/Adelle_light.ttf') format('truetype'),
+         url('../fonts/Adelle_light.svg#Adelle_light') format('svg');
+}
+
+
+@font-face {
+    font-family: 'Adelle_Semibold';
+    src: url('../fonts/Adelle_Semibold.eot');
+    src: url('../fonts/Adelle_Semibold.eot') format('embedded-opentype'),
+         url('../fonts/Adelle_Semibold.woff2') format('woff2'),
+         url('../fonts/Adelle_Semibold.woff') format('woff'),
+         url('../fonts/Adelle_Semibold.ttf') format('truetype'),
+         url('../fonts/Adelle_Semibold.svg#Adelle_Semibold') format('svg');
+}
+
+
+@font-face {
+    font-family: 'Adelle_Bold';
+    src: url('../fonts/Adelle_Bold.eot');
+    src: url('../fonts/Adelle_Bold.eot') format('embedded-opentype'),
+         url('../fonts/Adelle_Bold.woff2') format('woff2'),
+         url('../fonts/Adelle_Bold.woff') format('woff'),
+         url('../fonts/Adelle_Bold.ttf') format('truetype'),
+         url('../fonts/Adelle_Bold.svg#Adelle_Bold') format('svg');
+}
